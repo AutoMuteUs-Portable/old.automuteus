@@ -1,3 +1,5 @@
+# This is clone of https://github.com/denverquane/automuteus
+
 <p align="center">
     <a href="https://automute.us/#/" alt = "Website link"><img src="assets/AutoMuteUsBanner_cropped.png" width="800"></a>
 </p>
